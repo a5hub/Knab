@@ -2,7 +2,7 @@
 >> ~2 full days
 
 What would you add to your solution if you hadmore time? If you didn't spend much time on the coding assignment then use this as an opportunity to explain what you would add.
->> Integrations tests/end to end tests, docker support, deployment pipeline, elk logging, metrics support, performance tests
+>> Integrations tests/end to end tests, docker support, deployment pipeline, elk logging, metrics support, performance tests, authentication 
 
 2. What was the most useful feature that was added to the latest version of your language of choice?
 Please include a snippet of code that shows how you've used it.
